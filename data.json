@@ -1,0 +1,69 @@
+{
+    "team": [
+        {
+            "name": "Benaiah Yusuf",
+            "position": "Manager",
+            "about":"Software Engineer [NodeJS|PHP|GO]",
+            "avatar": "images/avatars/benaiah.jpg",
+            "social": {
+                "facebook": "https://www.facebook.com/benaih.yusuf",
+                "twitter": "https://twitter.com/benaih_yusuf",
+                "github": "",
+                "linkedin": ""
+            }
+        },
+        {
+            "name": "Benaiah Yusuf",
+            "position": "Manager",
+            "about":"",
+            "avatar": "images/avatars/benaiah.jpg",
+            "social": {
+                "facebook": "https://www.facebook.com/benaih.yusuf",
+                "twitter": "https://twitter.com/benaih_yusuf",
+                "github": "",
+                "linkedin": ""
+            }
+        },
+        {
+            "name": "Benaiah Yusuf",
+            "position": "Manager",
+            "about":"",
+            "avatar": "images/avatars/benaiah.jpg",
+            "social": {
+                "facebook": "https://www.facebook.com/benaih.yusuf",
+                "twitter": "https://twitter.com/benaih_yusuf",
+                "github": "",
+                "linkedin": ""
+            }
+        },
+        {
+            "name": "Benaiah Yusuf",
+            "position": "Manager",
+            "about":"",
+            "avatar": "images/avatars/benaiah.jpg",
+            "social": {
+                "facebook": "https://www.facebook.com/benaih.yusuf",
+                "twitter": "https://twitter.com/benaih_yusuf",
+                "github": "",
+                "linkedin": ""
+            }
+        }
+        
+
+    ],
+
+    "members": [
+        {
+            "name": "Benaiah Yusuf",
+            "position": "Manager",
+            "about":"",
+            "avatar": "images/avatars/benaiah.jpg",
+            "social": {
+                "facebook": "https://www.facebook.com/benaih.yusuf",
+                "twitter": "https://twitter.com/benaih_yusuf",
+                "github": "",
+                "linkedin": ""
+            }
+        }
+    ]
+}
