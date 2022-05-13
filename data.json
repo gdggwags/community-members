@@ -2,50 +2,14 @@
     "team": [
         {
             "name": "Benaiah Yusuf",
-            "position": "Manager",
-            "about":"Software Engineer [NodeJS|PHP|GO]",
-            "avatar": "images/avatars/benaiah.jpg",
+            "position": "Community Manager",
+            "about":"Software Engineer [JS|PHP|GO]",
+            "avatar": "https://drive.google.com/uc?export=view&id=1b0S35EM_2HMxzeobRSkiEfxvnCfjCiXw",
             "social": {
-                "facebook": "https://www.facebook.com/benaih.yusuf",
-                "twitter": "https://twitter.com/benaih_yusuf",
-                "github": "",
-                "linkedin": ""
-            }
-        },
-        {
-            "name": "Benaiah Yusuf",
-            "position": "Manager",
-            "about":"",
-            "avatar": "images/avatars/benaiah.jpg",
-            "social": {
-                "facebook": "https://www.facebook.com/benaih.yusuf",
-                "twitter": "https://twitter.com/benaih_yusuf",
-                "github": "",
-                "linkedin": ""
-            }
-        },
-        {
-            "name": "Benaiah Yusuf",
-            "position": "Manager",
-            "about":"",
-            "avatar": "images/avatars/benaiah.jpg",
-            "social": {
-                "facebook": "https://www.facebook.com/benaih.yusuf",
-                "twitter": "https://twitter.com/benaih_yusuf",
-                "github": "",
-                "linkedin": ""
-            }
-        },
-        {
-            "name": "Benaiah Yusuf",
-            "position": "Manager",
-            "about":"",
-            "avatar": "images/avatars/benaiah.jpg",
-            "social": {
-                "facebook": "https://www.facebook.com/benaih.yusuf",
-                "twitter": "https://twitter.com/benaih_yusuf",
-                "github": "",
-                "linkedin": ""
+                "facebook": "https://www.facebook.com/ybenaiah",
+                "twitter": "https://twitter.com/benaiah_yusuf",
+                "github": "https://github.com/Triverla",
+                "linkedin": "https://linkedin.com/in/benaiah-yusuf-47054343"
             }
         }
         
@@ -54,15 +18,15 @@
 
     "members": [
         {
-            "name": "Benaiah Yusuf",
-            "position": "Manager",
-            "about":"",
-            "avatar": "images/avatars/benaiah.jpg",
+            "name": "Test Member",
+            "title": "Student",
+            "about":"HTML/CSS",
+            "avatar": "images/avatars/your-picture.png",
             "social": {
-                "facebook": "https://www.facebook.com/benaih.yusuf",
-                "twitter": "https://twitter.com/benaih_yusuf",
-                "github": "",
-                "linkedin": ""
+                "facebook": "https://www.facebook.com/your-username",
+                "twitter": "https://twitter.com/your-username",
+                "github": "https://github.com/your-username",
+                "linkedin": "https://linkedin.com/in/your-username"
             }
         }
     ]
