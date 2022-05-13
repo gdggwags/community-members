@@ -1,5 +1,5 @@
 async function getUsers() {
-    let url = './../data.json';
+    let url = './data.json';
     try {
         let res = await fetch(url);
         return await res.json();
