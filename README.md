@@ -85,6 +85,8 @@ Example: `git push origin feature-allena-membership`
 Return to your fork on GitHub, and refresh the page. You may see a highlighted area that displays your recently pushed branch.
 Click the green `Compare & pull request` button to begin the pull request.
 
+Remember to compare your branch with the `dev` branch (ie. make your pull request to the `dev` branch. Click on the `base` dropdown to select `dev`)
+
 (Alternatively, if you don't see this highlighted area, you can switch to your branch using the Branch button and then click the New pull request button.)
 
 ## Create the pull request
