@@ -28,6 +28,18 @@
                 "github": "https://github.com/your-username",
                 "linkedin": "https://linkedin.com/in/your-username"
             }
+        },
+        {
+            "name": "Random User",
+            "title": "Student",
+            "about":"HTML/CSS",
+            "avatar": "images/avatars/your-picture.png",
+            "social": {
+                "facebook": "https://www.facebook.com/your-username",
+                "twitter": "https://twitter.com/your-username",
+                "github": "https://github.com/your-username",
+                "linkedin": "https://linkedin.com/in/your-username"
+            }
         }
     ]
 }
